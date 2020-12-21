@@ -1,1 +1,10 @@
-my.greeting: updating, Greeting from Microservice spring specific Github
+my:
+  greeting: Hello world!
+  list:
+    values: one, two, three, four
+
+db:
+  connection: "Hello from vim"
+  host: 127.0.0.1
+  port: 2200
+
